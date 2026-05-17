@@ -1,1 +1,1 @@
-# nickTheSoftwareEngineer00-church-help-resource-initiatives-service-tool
+# church-help-resource-initiatives-service-tool
